@@ -8,3 +8,9 @@
    color: forestgreen;
    font-size: 28px;
 }
+
+.movieBody {
+   background-color: aquamarine;
+   border-style: solid;
+   border-color:blue;
+}
